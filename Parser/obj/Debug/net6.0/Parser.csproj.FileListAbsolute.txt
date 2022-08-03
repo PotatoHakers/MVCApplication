@@ -1,0 +1,12 @@
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\bin\Debug\net6.0\Parser.deps.json
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\bin\Debug\net6.0\Parser.dll
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\bin\Debug\net6.0\Parser.pdb
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\obj\Debug\net6.0\Parser.csproj.AssemblyReference.cache
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\obj\Debug\net6.0\Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\obj\Debug\net6.0\Parser.AssemblyInfoInputs.cache
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\obj\Debug\net6.0\Parser.AssemblyInfo.cs
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\obj\Debug\net6.0\Parser.csproj.CoreCompileInputs.cache
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\obj\Debug\net6.0\Parser.dll
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\obj\Debug\net6.0\refint\Parser.dll
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\obj\Debug\net6.0\Parser.pdb
+C:\Users\KompMaster\source\repos\MVCApplication\Parser\obj\Debug\net6.0\ref\Parser.dll
