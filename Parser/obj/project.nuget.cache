@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jnVskxnKv50A+psxCYVdqHRZJdguJkHDhtCqbIBBwmTn34YXINP7Vn7GujjnLnG/3HMtXSR6e+4JNmQ7xc4Tvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KompMaster\\source\\repos\\MVCApplication\\Parser\\Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KompMaster\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}
